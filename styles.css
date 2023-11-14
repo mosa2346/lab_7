@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#heading {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
